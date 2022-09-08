@@ -1,0 +1,67 @@
+{
+  "APIEndpoint": "https://cloud.ibm.com",
+  "IsPrivate": false,
+  "IsAccessFromVPC": false,
+  "ConsoleEndpoint": "https://cloud.ibm.com",
+  "ConsolePrivateEndpoint": "",
+  "ConsolePrivateVPCEndpoint": "",
+  "CloudType": "public",
+  "CloudName": "bluemix",
+  "CRIType": "",
+  "Region": "us-south",
+  "RegionID": "ibm:yp:us-south",
+  "IAMEndpoint": "https://iam.cloud.ibm.com",
+  "IAMPrivateEndpoint": "",
+  "IAMPrivateVPCEndpoint": "",
+  "IAMToken": "Bearer eyJraWQiOiIyMDIyMDgxNDA4MjYiLCJhbGciOiJSUzI1NiJ9.eyJpYW1faWQiOiJJQk1pZC01NTAwMDVDNFFHIiwiaWQiOiJJQk1pZC01NTAwMDVDNFFHIiwicmVhbG1pZCI6IklCTWlkIiwic2Vzc2lvbl9pZCI6IkMtOThjMWIyOGMtYzZlNC00Y2JmLTkyZTctNmMwNDFmNzhhNGNkIiwic2Vzc2lvbl9leHBfbWF4IjoxNjYyNzQ3NjQ4LCJzZXNzaW9uX2V4cF9uZXh0IjoxNjYyNjY4NDQ4LCJqdGkiOiJiM2Q3YjdlNC1iNjFmLTQ1ZjEtYjE4My04NmRjZTAyNzQxNmEiLCJpZGVudGlmaWVyIjoiNTUwMDA1QzRRRyIsImdpdmVuX25hbWUiOiJBbHZhcm8iLCJmYW1pbHlfbmFtZSI6IlNvdGVsbyIsIm5hbWUiOiJBbHZhcm8gU290ZWxvIiwiZW1haWwiOiJhbHZhcm9fMTBfMTJAaG90bWFpbC5jb20iLCJzdWIiOiJhbHZhcm9fMTBfMTJAaG90bWFpbC5jb20iLCJhdXRobiI6eyJzdWIiOiJhbHZhcm9fMTBfMTJAaG90bWFpbC5jb20iLCJpYW1faWQiOiJJQk1pZC01NTAwMDVDNFFHIiwibmFtZSI6IkFsdmFybyBTb3RlbG8iLCJnaXZlbl9uYW1lIjoiQWx2YXJvIiwiZmFtaWx5X25hbWUiOiJTb3RlbG8iLCJlbWFpbCI6ImFsdmFyb18xMF8xMkBob3RtYWlsLmNvbSJ9LCJhY2NvdW50Ijp7ImJvdW5kYXJ5IjoiZ2xvYmFsIiwidmFsaWQiOnRydWUsImJzcyI6IjQ5MThkZmVjZjM1NTQyOWE5MGJkYzJhMjQ5YWIxODhmIn0sImlhdCI6MTY2MjY2MTI0OSwiZXhwIjoxNjYyNjYyNDQ5LCJpc3MiOiJodHRwczovL2lhbS5jbG91ZC5pYm0uY29tL2lkZW50aXR5IiwiZ3JhbnRfdHlwZSI6InBhc3N3b3JkIiwic2NvcGUiOiJpYm0gb3BlbmlkIiwiY2xpZW50X2lkIjoiYngiLCJhY3IiOjEsImFtciI6WyJwd2QiXX0.BQgQzYlLK1jU5uRnGIsXXXt_cKuS_KQHuk2YyrTnT445g3kA40rXcr9IFQ0_NEvAWy6SF5Sg8X14XFgs_3ayr4NcudmmXhkTem3QWvV0_wplGtGEC6V9DUUCwgfLII7u5d4_3BiNtCYg9dD4F_JesJMDF8FFDxHisl-0O-QIMiB1euVojdoSNjaVqmFdrQ3Bb8JFUda1WUvlPuGNHCLpPZE3tElV67wwXlKp1poC2TH8CMYB_uMe9r9J7BKTlaOqbK5U4Whd8QyHa13SphH8sajDUwmPdNar8FJicO0xbOnyXmk268ZF5Ysh651W3qIr_ir7hy0BRTZff8DYOrqi5g",
+  "IAMRefreshToken": "eyJhbGciOiJydCJ9.eyJzZXNzaW9uX2lkIjoiQy05OGMxYjI4Yy1jNmU0LTRjYmYtOTJlNy02YzA0MWY3OGE0Y2QiLCJpYW1faWQiOiJJQk1pZC01NTAwMDVDNFFHIiwiYWNjb3VudF9pZCI6IjQ5MThkZmVjZjM1NTQyOWE5MGJkYzJhMjQ5YWIxODhmIn0.f8p63Hjh0bacA3ZtPyhC3QHC7g6uz2fOaiN5sBHaTizsvjUDjhz2xGg-H32ce0gE0FLlud4B0ycmOkT00mWzVT7w10LkaWGV0hm2idPLc9UxqrtuG5ZzLf8O59b_w2sqBFnakx--9CkCE5clRb1Q743pzyufx4A6n4dDYtTTY9dhcqp1CQNMruX1MK5kCKpgOnSXFEelTcfYCq7psbk_Eq6PYLc4hiRLRzZFrzMsYMqT6GyjEndybZzfy1d7lLleLNpzSTG3pofrQQysY6b7uK0C7uRUGhevDwBMOq18x95mZ3yDPOyhfVoTt53UomSyDievSi7uMxSPAazGYdiFBf4WVeNARV0OiEt-X69EzbQcIdj_IyAkcIQosgXYo7vhTW7xmJFZt06juvkdOSRnfAl6Y9sWBW23SfKYK1rauJ8NAAVUGaEKhEIwl792ZdJ4MudP7XVNThyCsDoBMMqqvQ5PjyiHPUwSMlTeOltvoAQGpGnChRfZ1QNbz1LbKZP5T0i3mYyANYgvRAuIZDSkiK3JY3Upd71ePWeaGiwu2cajxRZZjrlTVg5xV1RYlVhX06ny8bPJq4TsUMYQ65A4rP5_2xucD9XQj1_4e952gl6-lAdMsYybFgZOCV-5n5-QTEZWrW0BY0zHv2Co9CCiBgStSA0VxKNHYO8xjdTcQ2--lQNJWjsMZlHPN8gQveR-Vau-bC8F4CEW9__41HV-cpfZUvMj8EDVmnAGimvvG-wsoyKxWInVjT2WULXH9IHC0nWsqCDibd9nFh3TGSU_SA3XMuZAHZK-v7FX6vFhTXpNSkUUVDK5YLJB39zIliUJ7lYaOW9Hg2POCANvwbe-lF_34P5aIx7XwvjfLWODIWXGPKsjKmSirQa9cEm5amwym6X_WHlpoWPiru-H5HQ4b-iFwHByZl3hFZb3qHoAleK1GVFr0rGk5IxDUdAoPm9j6irfylUwuX2I2cVHhJIPfjy9ANy3U5fw_07Z0jF2MuzjEb_Pr_IVYbzfALGbNvMggw_RYhIE71IFsIkobMmLepTGIu1hZZcBLRYp2rOjik19WZ_Dl0gS9LDyobwPw05XjX8bGNSbLxdQfJQ7NYsNuEDLGjN3uQvjS8BNUkaFtjzQ1Bm_eAJfQacWrOHF0NrT7Gxyt7ywCt0fYuyYU9Dr7-f0YN0bittVQQPAzaBEJejkBFPqgd2La-e6wsVByY6GFDf6XQZLWF-vbN_EYVzL27b4dS7P3M1ovhSVAhDXasUkXHixF-YtomXlcalinQ7JcogTe5DMSUnRkPHNnepiWm7V_vbzSH3Rm5Fjs0kvWGWfmA",
+  "IsLoggedInAsCRI": false,
+  "Account": {
+    "GUID": "4918dfecf355429a90bdc2a249ab188f",
+    "Name": "Alvaro Sotelo's Account",
+    "Owner": "alvaro_10_12@hotmail.com"
+  },
+  "Profile": {
+    "ID": "",
+    "Name": "",
+    "ComputeResource": {
+      "Name": "",
+      "ID": ""
+    },
+    "User": {
+      "Name": "",
+      "ID": ""
+    }
+  },
+  "ResourceGroup": {
+    "GUID": "",
+    "Name": "",
+    "State": "",
+    "Default": false,
+    "QuotaID": ""
+  },
+  "LoginAt": "2022-09-08T13:20:45-05:00",
+  "CFEETargeted": false,
+  "CFEEEnvID": "",
+  "PluginRepos": [
+    {
+      "Name": "IBM Cloud",
+      "URL": "https://plugins.cloud.ibm.com"
+    }
+  ],
+  "SSLDisabled": false,
+  "Locale": "",
+  "MessageOfTheDayTime": 1662661269,
+  "Trace": "",
+  "ColorEnabled": "",
+  "HTTPTimeout": 0,
+  "CLIInfoEndpoint": "",
+  "CheckCLIVersionDisabled": false,
+  "UsageStatsDisabled": false,
+  "UsageStatsEnabled": false,
+  "UsageStatsEnabledLastUpdate": "0001-01-01T00:00:00Z",
+  "SDKVersion": "0.11.0",
+  "UpdateCheckInterval": 0,
+  "UpdateRetryCheckInterval": 0,
+  "UpdateNotificationInterval": 0
+}
